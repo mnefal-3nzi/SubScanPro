@@ -58,7 +58,9 @@
 ---
 
 
-## مطور السكربت:
- منيف المضياني
- Dr.mnef@Gmail.com
+## 📞 التواصل
+- **المطور:** Mnef Alenzi (Drmnef)
+- **البريد:** mnefal3nzi@gmail.com
+- **GitHub:** https://github.com/mnefal-3nzi
 
+---
